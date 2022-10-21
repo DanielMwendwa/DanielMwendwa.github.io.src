@@ -29,12 +29,12 @@ experience:
     location: Nairobi
     date_start: '2022-05-01'
     date_end: ''
-    description: |2-
-        Responsibilities include:
+    # description: |2-
+    #     Responsibilities include:
         
-        * Analysing
-        * Modelling
-        * Deploying
+    #     * Analysing
+    #     * Modelling
+    #     * Deploying
 
   - title: Junior Operations Engineer
     company: Africas Voices Foundation
@@ -43,7 +43,7 @@ experience:
     location: Nairobi
     date_start: '2019-10-01'
     date_end: '2022-04-30'
-    description: Taught electronic engineering and researched semiconductor physics.
+    # description: Taught electronic engineering and researched semiconductor physics.
 
 design:
   columns: '1'

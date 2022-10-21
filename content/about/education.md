@@ -29,10 +29,10 @@ experience:
     location: Nairobi
     date_start: '2017-05-01'
     date_end: '2021-10-29'
-    description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+    # description: |2-
+    #     * Dissertation on Y
+    #     * Basketball team
+    #     * DJ club
 
   # - title: KCSE
   #   company: Dagoretti High School
