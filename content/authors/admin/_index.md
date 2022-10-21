@@ -73,7 +73,7 @@ social:
 #email: ""
 ---
 
-Results-driven software engineer professional, with over 3 years of experience in supporting the technology and data team at Africa's Voices in building and maintaining infrastructure for listening to citizens and offering cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions among other benefits on time. 
+I am a results-driven software engineer professional, with over 3 years of experience in supporting the technology and data team at Africa's Voices in building and maintaining infrastructure for listening to citizens and offering cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions among other benefits on time. 
 
 Interested in programming; developing, testing and debugging code; designing interfaces; Data analysis and visualisation; and administering systems and networks.
 
