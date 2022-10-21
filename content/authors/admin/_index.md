@@ -72,8 +72,8 @@ social:
 #email: ""
 ---
 
-<!-- Daniel Mwendwa is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks. -->
+Daniel Mwendwa is an astute Software Engineer with several successful projects under his belt through which he has honed his analytical thinking and collaboration skills. He is passionate about using his knowledge and skills to help society by addressing the opportunities and challenges posed by the rapidly accelerating pace of technological advances.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+Passionate in programming; developing, testing and debugging code; designing interfaces; Data analysis and visualisation; and administering systems and networks.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
