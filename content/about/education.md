@@ -24,7 +24,7 @@ date_format: Jan 2006
 experience:
   - title: Bsc Computer Science
     company: Catholic University of Eastern Africa
-    company_url: 'https://www.cuea.edu/'
+    company_url: 'https://www.cuea.edu'
     company_logo: cuea
     location: Nairobi
     date_start: '2017-05-01'
