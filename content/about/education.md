@@ -25,7 +25,7 @@ experience:
   - title: Bsc Computer Science
     company: Catholic University of Eastern Africa
     company_url: ''
-    company_logo: org-x
+    company_logo: cuea
     location: Nairobi
     date_start: '2017-05-01'
     date_end: '2021-10-29'
@@ -34,14 +34,14 @@ experience:
         * Basketball team
         * DJ club
 
-  - title: KCSE
-    company: Dagoretti High School
-    company_url: ''
-    company_logo: org-x
-    location: Nairobi
-    date_start: '2013-11-30'
-    date_end: '2016-03-01'
-    description: My dissertation was on X
+  # - title: KCSE
+  #   company: Dagoretti High School
+  #   company_url: ''
+  #   company_logo: org-x
+  #   location: Nairobi
+  #   date_start: '2013-11-30'
+  #   date_end: '2016-03-01'
+  #   description: My dissertation was on X
 
 design:
   columns: '1'
