@@ -22,7 +22,7 @@ jobs:
         HUGO_VERSION: 0.101.0
         HUGO_EXTENDED: true
         TARGET_REPO: DanielMwendwa/DanielMwendwa.github.io
-        TOKEN: ${{ secrets.TOKEN }}
+        TOKEN: ${{ secrets.PORTFOLIO_TOKEN }}
         # CNAME: www.nidahcarlos.com
         HUGO_ARGS: --debug
         GO_VERSION: 1.17
