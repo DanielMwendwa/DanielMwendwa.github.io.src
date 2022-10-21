@@ -73,8 +73,8 @@ social:
 #email: ""
 ---
 
-I am an astute Software Engineer with several successful projects under his belt through which he has honed his analytical thinking and collaboration skills. He is passionate about using his knowledge and skills to help society by addressing the opportunities and challenges posed by the rapidly accelerating pace of technological advances.
+Results-driven software engineer professional, with over 3 years of experience in supporting the technology and data team at Africa's Voices in building and maintaining infrastructure for listening to citizens and offering cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions among other benefits on time. 
 
-I am passionate in programming; developing, testing and debugging code; designing interfaces; Data analysis and visualisation; and administering systems and networks.
+Interested in programming; developing, testing and debugging code; designing interfaces; Data analysis and visualisation; and administering systems and networks.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
