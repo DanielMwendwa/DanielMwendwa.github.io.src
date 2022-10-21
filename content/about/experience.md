@@ -25,7 +25,7 @@ experience:
   - title: Software Engineer
     company: Africas Voices Foundation
     company_url: 'https://www.africasvoices.org'
-    company_logo: org-gc
+    company_logo: avf
     location: Nairobi
     date_start: '2022-05-01'
     date_end: ''
@@ -39,7 +39,7 @@ experience:
   - title: Junior Operations Engineer
     company: Africas Voices Foundation
     company_url: 'https://www.africasvoices.org'
-    company_logo: org-x
+    company_logo: avf
     location: Nairobi
     date_start: '2019-10-01'
     date_end: '2022-04-30'
