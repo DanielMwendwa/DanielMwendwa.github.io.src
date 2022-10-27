@@ -6,7 +6,7 @@ title: Daniel Mwendwa
 superuser: true
 
 # Role/position
-role: ''
+role: 'Software Engineer'
 
 # Status emoji
 status:
