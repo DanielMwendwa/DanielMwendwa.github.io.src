@@ -73,8 +73,8 @@ social:
 #email: ""
 ---
 
-I am a results-driven software engineer, with over 3 years of experience in supporting the technology and data team at Africa's Voices in building and maintaining infrastructure for listening to citizens. I have also offered cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions on time.
+Results-driven software engineer, with over 3 years of experience supporting the data and technology team at Africa's Voices Foundation, in building and maintaining infrastructure for listening to citizens. Offered cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions on time. 
 
-I am interested in programming; developing, testing and debugging code; designing interfaces; data analysis and visualisation; and administering systems and networks.
+Passionate about programming, developing, testing and debugging code; Designing interfaces; Data analysis and visualisation, and administering systems and networks.
 
 {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
