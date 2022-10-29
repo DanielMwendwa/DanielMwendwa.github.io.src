@@ -30,7 +30,7 @@ experience:
     date_start: '2022-05-01'
     date_end: ''
     description: |2-
-        * Development and supporting data pipelines (initial implementation, SMS platform and
+        * Developing and supporting data pipelines (initial implementation, SMS platform and
           Google Forms configuration, daily pipeline execution, maintenance, uploading of coding
           schemes to aid in data labelling, SMS traffic monitoring; code reviews/standing in for
           primaries on leave etc.)
