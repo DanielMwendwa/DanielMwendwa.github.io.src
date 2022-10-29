@@ -77,4 +77,4 @@ Results-driven software engineer, with over 3 years of experience supporting the
 
 Passionate about programming, developing, testing and debugging code; Designing interfaces; Data analysis and visualisation, and administering systems and networks.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+<!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
