@@ -69,7 +69,37 @@ experience:
     location: Nairobi
     date_start: '2019-10-01'
     date_end: '2022-04-30'
-    # description: Taught electronic engineering and researched semiconductor physics.
+    description: |2-
+        * Developed an analytics dashboard for monitoring, logging and alerting data pipeline
+          metrics.
+
+        * Developed, managed and maintained Operations Dashboard (Python, D3.js and
+          Firebase). It helped the team mainly monitor SMS traffic across different mobile network 
+          operators, and message coding progress.
+
+        * Gathered user feedback both within and outside the organisation on ways of improving
+          the dashboard further. This became the go-to tool within the organisation for
+          monitoring critical project processes and tasks.
+
+        * Provided technical support and maintenance to enable the smooth running of operations
+          in the organisation including assisting colleagues in resolving technical issues; actively
+          updated, maintained and monitored AVF computers, 3rd party software, networks and
+          peripherals; maintaining a working log of technical support requests to enable us to
+          mitigate them in the future proactively.
+          
+        * Learnt AVF’s pipeline codebase and created a test pipeline.
+
+        * Collaborated with other software engineers and researchers to co-pilot pipeline
+          operations.
+
+        * Monitored deployments, tracked outages, and provided root cause analysis and
+          postmortem solutions for incident responses.
+
+        * Documented existing operational processes and developed new ones as the infrastructure
+          grew.
+
+        * Collaborated with project leads to establish technical and operational plans for
+          deployments.
 
 design:
   columns: '1'
