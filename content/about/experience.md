@@ -67,7 +67,7 @@ experience:
     company_url: 'https://www.africasvoices.org'
     company_logo: avf
     location: Nairobi
-    date_start: '2019-10-01'
+    date_start: '2019-09-24'
     date_end: '2022-04-30'
     description: |2-
         * Developed an analytics dashboard for monitoring, logging and alerting data pipeline
