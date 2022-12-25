@@ -30,37 +30,35 @@ experience:
     date_start: '2022-05-01'
     date_end: ''
     description: |2-
-        * Developing and supporting data pipelines (initial implementation, SMS platform and
-          Google Forms configuration, daily pipeline execution, maintenance, uploading of coding
-          schemes to aid in data labelling, SMS traffic monitoring; code reviews/standing in for
-          primaries on leave etc.)
+        * Developed and supported data pipelines, including initial implementation, SMS platform
+          and Google Forms configuration, daily pipeline execution, maintenance, and uploading
+          of coding schemes to aid in data labelling.
 
-        * Building, running and maintaining new data processing pipelines and infrastructure using
-          existing core modules.
+        * Built, ran, and maintained new data processing pipelines and infrastructure using existing
+          core modules.
 
-        * Providing support in core infrastructural investments in between projects.
+        * Provided support in core infrastructural investments in between projects.
 
-        * In charge of creating, co-designing, maintaining and testing SMS flow on the Textit
+        * In charge of creating, co-designing, maintaining, and testing SMS flow on the Textit
           platform.
 
-        * Using the infrastructure to design, develop, test and deploy software architecture for new
+        * Used infrastructure to design, develop, test, and deploy software architecture for new
           products.
 
-        * Collaborating with Data and Technology staff to build and maintain core AVF
-          infrastructure and systems.
+        * Collaborated with Data and Technology staff to build and maintain the core
+          organisation’s infrastructure and systems.
 
-        * Supporting standard software engineering skills (code review, debugging, testing, etc.)
+        * Supported standard software engineering skills, including code review, debugging, and
+          testing.
 
-        * Collaborated with other engineers to build a centralised Firebase database that provides a
-          canonical view of our contacts, engagements, and their respective demographics.
-          This helped reduce operational costs from 3rd-party data management services and
-          improved how we store and interact with our vast citizen-generated data from various
-          countries, donors and contexts.
+        * Collaborated with other engineers to build a centralised Firebase database that provided a
+          canonical view of contacts, and engagements, reducing operational costs from 3rd-party
+          data management services and improving data storage and interaction.
 
-        * Coordinating with mobile network operators and SMS aggregators in Kenya and Somalia
-          to integrate and monitor SMS shortcodes to aid our audience engagement.
+        * Coordinated with mobile network operators and SMS aggregators in Kenya and Somalia
+          to integrate and monitor SMS shortcodes to aid in audience engagement.
 
-        * Managing the organisation's Google workspace
+        * Managed the organization's Google workspace
 
   - title: Junior Operations Engineer
     company: Africas Voices Foundation
@@ -70,27 +68,20 @@ experience:
     date_start: '2019-09-24'
     date_end: '2022-04-30'
     description: |2-
-        * Developed an analytics dashboard for monitoring, logging and alerting data pipeline
+        * Developed an analytics dashboard for monitoring, logging, and alerting data pipeline
           metrics.
 
-        * Developed, managed and maintained Operations Dashboard (Python, D3.js and
-          Firebase). It helped the team mainly monitor SMS traffic across different mobile network 
-          operators, and message coding progress.
+        * Developed, managed, and maintained an Operations Dashboard (using Python, D3.js,
+          and Firebase) that helped the team monitor SMS traffic across different mobile network
+          operators and message coding progress, gathering user feedback for improvement.
 
-        * Gathered user feedback both within and outside the organisation on ways of improving
-          the dashboard further. This became the go-to tool within the organisation for
-          monitoring critical project processes and tasks.
+        * Provided technical support to enable the smooth running of operations in the
+          organization, including actively updating, maintaining, and monitoring computers, 3rd
+          party software, networks, and peripherals, and maintaining a working log of technical
+          support requests to proactively identify and mitigate issues.
 
-        * Provided technical support and maintenance to enable the smooth running of operations
-          in the organisation including assisting colleagues in resolving technical issues; actively
-          updated, maintained and monitored AVF computers, 3rd party software, networks and
-          peripherals; maintaining a working log of technical support requests to enable us to
-          mitigate them in the future proactively.
-          
-        * Learnt AVF’s pipeline codebase and created a test pipeline.
-
-        * Collaborated with other software engineers and researchers to co-pilot pipeline
-          operations.
+        * Learned the AVF pipeline codebase and created a test pipeline, collaborating with other
+          software engineers and researchers to co-pilot pipeline operations
 
         * Monitored deployments, tracked outages, and provided root cause analysis and
           postmortem solutions for incident responses.
@@ -99,7 +90,7 @@ experience:
           grew.
 
         * Collaborated with project leads to establish technical and operational plans for
-          deployments.
+          deployments
 
 design:
   columns: '1'

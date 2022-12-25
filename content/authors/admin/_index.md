@@ -13,20 +13,25 @@ status:
   icon: ☕️
 
 # Organizations/Affiliations
-#organizations:
-#- name: 腾讯
-#  url: ""
+organizations:
+- name: Africas Voices Foundation
+  url: "https://www.africasvoices.org"
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
+# bio: Experienced data engineer and software developer with a background in data pipelines, SMS platform management, and operations engineering.
 
-#interests:
-#- Artificial Intelligence
-#- Computational Linguistics
-#- Information Retrieval
+interests:
+- Data engineering
+- Software development
+- Infrastructure management
+- Operations engineering
 
-#education:
-#  courses:
+education:
+ courses:
+ - course: BSc in Computer Science
+   institution: Catholic University of Eastern Africa
+   year: 2021
 #  - course: PhD in Artificial Intelligence
 #    institution: Stanford University
 #    year: 2012
@@ -46,12 +51,12 @@ social:
     icon_pack: fas
     link: 'mailto:nidahcarlos@gmail.com'
     # link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/nidahcarlos
-  - icon: instagram
-    icon_pack: fab
-    link: https://instagram.com/nidahcarlos
+  # - icon: twitter
+  #   icon_pack: fab
+  #   link: https://twitter.com/nidahcarlos
+  # - icon: instagram
+  #   icon_pack: fab
+  #   link: https://instagram.com/nidahcarlos
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
@@ -73,8 +78,11 @@ social:
 #email: ""
 ---
 
-Results-driven software engineer, with over 3 years of experience supporting the data and technology team at Africa's Voices Foundation, in building and maintaining infrastructure for listening to citizens. Offered cutting-edge engineering solutions in various domains for efficient service delivery, and cost reductions on time. 
-
-Passionate about programming, developing, testing and debugging code; Designing interfaces; Data analysis and visualisation, and administering systems and networks.
+Data engineer and software developer with experience developing and supporting data pipelines,
+and building and maintaining data processing infrastructure. Skilled in SMS platform
+management and coordination with mobile network operators and SMS aggregators. Proficient
+in operations engineering, including analytics dashboard development, technical support, and
+incident response. Seeking a challenging and rewarding position in a dynamic company where I
+can utilize my technical skills and contribute to the success of the team.
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
