@@ -82,7 +82,6 @@ Data engineer and software developer with experience developing and supporting d
 and building and maintaining data processing infrastructure. Skilled in SMS platform
 management and coordination with mobile network operators and SMS aggregators. Proficient
 in operations engineering, including analytics dashboard development, technical support, and
-incident response. Seeking a challenging and rewarding position in a dynamic company where I
-can utilize my technical skills and contribute to the success of the team.
+incident response.
 
 <!-- {{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF. -->
