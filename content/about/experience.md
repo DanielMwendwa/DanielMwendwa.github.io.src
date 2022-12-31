@@ -31,7 +31,7 @@ experience:
     date_end: ''
     description: |2-
         * Developed and supported data pipelines, including initial implementation, SMS platform
-          and Google Forms configuration, daily pipeline execution, maintenance, and uploading
+          and Google forms configuration, daily pipeline execution, maintenance, and uploading
           of coding schemes to aid in data labelling.
 
         * Built, ran, and maintained new data processing pipelines and infrastructure using existing
