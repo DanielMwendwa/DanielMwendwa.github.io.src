@@ -53,10 +53,10 @@ social:
     # link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
   # - icon: twitter
   #   icon_pack: fab
-  #   link: https://twitter.com/nidahcarlos
+  #   link: https://twitter.com/[username]
   # - icon: instagram
   #   icon_pack: fab
-  #   link: https://instagram.com/nidahcarlos
+  #   link: https://instagram.com/[username]
 # Uncomment below for Github link
   - icon: github
     icon_pack: fab
