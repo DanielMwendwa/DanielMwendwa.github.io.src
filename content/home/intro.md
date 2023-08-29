@@ -22,4 +22,4 @@ author: admin
 <!-- I'm **Daniel**, a Software Engineer at Africa's Voices Foundation. -->
 {style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
-Explore My Journey on My [resumé](/about/).
+Explore My Journey on My [Resumé](/about/).
