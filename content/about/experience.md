@@ -84,37 +84,15 @@ experience:
         * Collaborated with project leads to establish technical and operational plans for
           deployments
 
-  # - title: Junior Operations Engineer
-  #   company: Africas Voices Foundation
-  #   company_url: 'https://www.africasvoices.org'
-  #   company_logo: avf
-  #   location: Nairobi
-  #   date_start: '2019-09-24'
-  #   date_end: '2022-04-30'
-  #   description: |2-
-  #       * Developed an analytics dashboard for monitoring, logging, and alerting data pipeline
-  #         metrics.
-
-  #       * Developed, managed, and maintained an Operations Dashboard (using Python, D3.js,
-  #         and Firebase) that helped the team monitor SMS traffic across different mobile network
-  #         operators and message coding progress, gathering user feedback for improvement.
-
-  #       * Provided technical support to enable the smooth running of operations in the
-  #         organization, including actively updating, maintaining, and monitoring computers, 3rd
-  #         party software, networks, and peripherals, and maintaining a working log of technical
-  #         support requests to proactively identify and mitigate issues.
-
-  #       * Learned the AVF pipeline codebase and created a test pipeline, collaborating with other
-  #         software engineers and researchers to co-pilot pipeline operations
-
-  #       * Monitored deployments, tracked outages, and provided root cause analysis and
-  #         postmortem solutions for incident responses.
-
-  #       * Documented existing operational processes and developed new ones as the infrastructure
-  #         grew.
-
-  #       * Collaborated with project leads to establish technical and operational plans for
-  #         deployments
+  - title: Data Science Intern
+    company: Talent-Bridge Africa 
+    company_url: 'https://www.linkedin.com/company/krowdworks'
+    # company_logo: avf
+    location: Nairobi
+    date_start: '2018-09-01'
+    date_end: '2019-08-31'
+    description: |2-
+        * Data Science Intern
 
 design:
   columns: '1'
