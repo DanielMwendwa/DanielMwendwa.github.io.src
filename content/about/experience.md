@@ -22,12 +22,12 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: Software Engineer
+  - title: Consulting Software Engineer
     company: Africas Voices Foundation
     company_url: 'https://www.africasvoices.org'
     company_logo: avf
     location: Nairobi
-    date_start: '2022-05-01'
+    date_start: '2019-09-24'
     date_end: ''
     description: |2-
         * Developed and supported data pipelines, including initial implementation, SMS platform
@@ -60,14 +60,6 @@ experience:
 
         * Managed the organization's Google workspace
 
-  - title: Junior Operations Engineer
-    company: Africas Voices Foundation
-    company_url: 'https://www.africasvoices.org'
-    company_logo: avf
-    location: Nairobi
-    date_start: '2019-09-24'
-    date_end: '2022-04-30'
-    description: |2-
         * Developed an analytics dashboard for monitoring, logging, and alerting data pipeline
           metrics.
 
@@ -91,6 +83,38 @@ experience:
 
         * Collaborated with project leads to establish technical and operational plans for
           deployments
+
+  # - title: Junior Operations Engineer
+  #   company: Africas Voices Foundation
+  #   company_url: 'https://www.africasvoices.org'
+  #   company_logo: avf
+  #   location: Nairobi
+  #   date_start: '2019-09-24'
+  #   date_end: '2022-04-30'
+  #   description: |2-
+  #       * Developed an analytics dashboard for monitoring, logging, and alerting data pipeline
+  #         metrics.
+
+  #       * Developed, managed, and maintained an Operations Dashboard (using Python, D3.js,
+  #         and Firebase) that helped the team monitor SMS traffic across different mobile network
+  #         operators and message coding progress, gathering user feedback for improvement.
+
+  #       * Provided technical support to enable the smooth running of operations in the
+  #         organization, including actively updating, maintaining, and monitoring computers, 3rd
+  #         party software, networks, and peripherals, and maintaining a working log of technical
+  #         support requests to proactively identify and mitigate issues.
+
+  #       * Learned the AVF pipeline codebase and created a test pipeline, collaborating with other
+  #         software engineers and researchers to co-pilot pipeline operations
+
+  #       * Monitored deployments, tracked outages, and provided root cause analysis and
+  #         postmortem solutions for incident responses.
+
+  #       * Documented existing operational processes and developed new ones as the infrastructure
+  #         grew.
+
+  #       * Collaborated with project leads to establish technical and operational plans for
+  #         deployments
 
 design:
   columns: '1'
