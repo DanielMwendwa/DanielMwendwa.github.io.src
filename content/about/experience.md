@@ -94,9 +94,9 @@ experience:
     description: |2-
         * Data cleaning and preprocessing: Cleaned and preprocessed a massive dataset of job postings, removing outliers and imputing missing values.
         * Machine Learning Project: Developed a machine learning model using the O*NET career database to help students find careers they can excel in based on their subject undertaken, abilities, and interests.
-        - The model was trained on a massive dataset of job postings, and was able to accurately predict the career that a student was most likely to be successful in with a high degree of accuracy.
-        - The model was evaluated using a variety of metrics, including accuracy, precision, and recall.
-        - The model was implemented as a web application, and was made available to students.
+        * The model was trained on a massive dataset of job postings, and was able to accurately predict the career that a student was most likely to be successful in with a high degree of accuracy.
+        * The model was evaluated using a variety of metrics, including accuracy, precision, and recall.
+        * The model was implemented as a web application, and was made available to students.
 
 
 design:
