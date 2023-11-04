@@ -87,7 +87,7 @@ experience:
   - title: Data Science Intern
     company: Talent-Bridge Africa 
     company_url: 'https://www.linkedin.com/company/krowdworks'
-    # company_logo: avf
+    # company_logo: Talent-Bridge Africa
     location: Nairobi
     date_start: '2018-09-01'
     date_end: '2019-08-31'
